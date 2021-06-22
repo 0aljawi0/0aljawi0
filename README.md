@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0aljawi0
+- 👀 I’m interested in Games DEvelopment
+- 🌱 I’m currently learning Unity
