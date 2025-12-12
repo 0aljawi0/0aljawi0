@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Passionate game developer with a strong background in full-stack development. I love creating immersive gaming experiences while also building robust backend systems and tools. Currently contributing to various projects including the **Godot Engine** and leading development at **Query Studios**.
+Passionate game developer with a strong background in full-stack development. I love creating immersive gaming experiences while also building robust backend systems and tools. Currently contributing to various projects including and leading development at **Query Studios**.
 
 ## 🛠️ Tech Stack & Tools
 
