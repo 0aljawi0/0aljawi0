@@ -13,6 +13,7 @@ Passionate game developer with a strong background in full-stack development. I 
 ## 🛠️ Tech Stack & Tools
 
 ### **Game Development**
+![Unreal Engine](https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,18 +21,11 @@ Passionate game developer with a strong background in full-stack development. I 
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -43,7 +37,6 @@ Passionate game developer with a strong background in full-stack development. I 
 
 ### 🎮 **Game Development**
 - **[Godot Engine](https://github.com/godotengine/godot)** - Contributing to the open-source game engine
-- **[genio](https://github.com/0aljawi0/genio)** - Game development toolkit
 - **[lentera](https://github.com/0aljawi0/lentera)** - Lighting system for 2D/3D games
 
 ### 💼 **Enterprise Solutions**
@@ -51,16 +44,6 @@ Passionate game developer with a strong background in full-stack development. I 
   - `app-matamaya` - Main application
   - `matamaya-v2` - Next generation platform
   - `matamaya-cdn` - Content delivery network
-
-### 🔧 **Tools & Utilities**
-- **[workspace](https://github.com/0aljawi0/workspace)** - Development environment setup
-- **[devadmin](https://github.com/0aljawi0/devadmin)** - Developer administration panel
-- **[bsp](https://github.com/0aljawi0/bsp)** - Binary Space Partitioning tools
-
-### 🌐 **Web Applications**
-- **[collega](https://github.com/0aljawi0/collega)** - Collaboration platform
-- **[taskly_drf_rest_api](https://github.com/0aljawi0/taskly_drf_rest_api)** - Task management API
-- **[ampmv2](https://github.com/0aljawi0/ampmv2)** - Asset management system
 
 ## 🔗 Connect With Me
 
