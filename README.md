@@ -57,4 +57,4 @@ Passionate game developer with a strong background in full-stack development. I 
 **Visitor Count:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=0aljawi0&color=blueviolet&style=flat-square)
 
-*Last Updated: December 2023*
+*Last Updated: December 2025*
