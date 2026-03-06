@@ -18,7 +18,7 @@ Passionate game developer with a strong background in full-stack development. I 
 
 ## 📈 GitHub Stats
 
-![Ghufron's GitHub Stats](https://grs-git-main-al-jawis-projects-f3023f4e.vercel.app?username=0aljawi0&show_icons=true&theme=radical&hide_border=true)
+![Ghufron's GitHub Stats](https://grs-cyan.vercel.app?username=0aljawi0&show_icons=true&theme=radical&hide_border=true)
 
 ## 🏆 Featured Projects
 
