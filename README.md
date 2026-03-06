@@ -16,12 +16,6 @@ Passionate game developer with a strong background in full-stack development. I 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Ghufron's GitHub Stats](https://grs-cyan.vercel.app?username=0aljawi0&show_icons=true&theme=radical&hide_border=true)
-
-## 🏆 Featured Projects
-
 ### 🎮 **Game Development**
 - **[Godot Engine](https://github.com/godotengine/godot)** - Contributing to the open-source game engine
 
