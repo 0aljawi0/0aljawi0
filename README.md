@@ -16,29 +16,14 @@ Passionate game developer with a strong background in full-stack development. I 
 ![Unreal Engine](https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## 📈 GitHub Stats
 
-![Ghufron's GitHub Stats](https://grs-cyan.vercel.app/api?username=0aljawi0&show_icons=true&theme=radical&hide_border=true)
+![Ghufron's GitHub Stats](https://grs-git-main-al-jawis-projects-f3023f4e.vercel.app?username=0aljawi0&show_icons=true&theme=radical&hide_border=true)
 
 ## 🏆 Featured Projects
 
 ### 🎮 **Game Development**
 - **[Godot Engine](https://github.com/godotengine/godot)** - Contributing to the open-source game engine
-- **[lentera](https://github.com/0aljawi0/lentera)** - Lighting system for 2D/3D games
-
-### 💼 **Enterprise Solutions**
-- **[matamayaid](https://github.com/matamayaid)** - Full-stack business solutions
-  - `app-matamaya` - Main application
-  - `matamaya-v2` - Next generation platform
-  - `matamaya-cdn` - Content delivery network
 
 ## 🔗 Connect With Me
 
