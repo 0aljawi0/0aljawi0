@@ -13,11 +13,9 @@ Passionate game developer with a strong background in full-stack development. I 
 ## 🛠️ Tech Stack & Tools
 
 ### **Game Development**
+![Cry Engine](https://img.shields.io/badge/CryEngine-FFFFFF?style=for-the-badge&logo=cryengine&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🎮 **Game Development**
-- **[Godot Engine](https://github.com/godotengine/godot)** - Contributing to the open-source game engine
 
 ## 🔗 Connect With Me
 
